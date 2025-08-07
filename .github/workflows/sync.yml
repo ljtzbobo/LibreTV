@@ -1,7 +1,7 @@
+name: Upstream Sync
+
 permissions:
   contents: write
-  workflows: write  # 关键权限
-name: Upstream Sync
 
 on:
   schedule:
